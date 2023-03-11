@@ -31,9 +31,11 @@
     padding-left: 3px -15px;
 }
 .header-1 {
-    text-align: center;
+    color:white;
+    text-align: left;
+    padding-left: 40px;
 }
 .ol-li-1 {
     list-style: none;
-    text-align: center;
+    text-align: left;
 }
