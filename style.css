@@ -1,0 +1,39 @@
+@media screen {
+    
+}
+* body {
+    background-color: rgb(209, 204, 204);
+    text-align: center;
+}
+.main-int-1 {
+    color:aliceblue;
+    padding-top: 0;
+    line-height: 2rem;
+}
+.main-int-2 {
+    color:blue;
+    padding-bottom: 20px;
+}
+.aside-1 {
+    float:left;
+    padding-top: 10px;
+}
+.btn_btn_1 {
+    background-color: blue;
+    color:white;
+    padding:8px 22px 8px 22px;
+    border:none;
+}
+.bikes-1 {
+    font-style: italic;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    padding-left: 3px -15px;
+}
+.header-1 {
+    text-align: center;
+}
+.ol-li-1 {
+    list-style: none;
+    text-align: center;
+}
